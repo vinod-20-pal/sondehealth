@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sondehealth/static/css/main.eb64b580.css",
+    "main.js": "/sondehealth/static/js/main.7b18aece.js",
+    "static/js/787.9092f61b.chunk.js": "/sondehealth/static/js/787.9092f61b.chunk.js",
+    "static/media/ahh-sample.wav": "/sondehealth/static/media/ahh-sample.d9c1149789898b0f3178.wav",
+    "static/media/logo.svg": "/sondehealth/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sondehealth/index.html",
+    "main.eb64b580.css.map": "/sondehealth/static/css/main.eb64b580.css.map",
+    "main.7b18aece.js.map": "/sondehealth/static/js/main.7b18aece.js.map",
+    "787.9092f61b.chunk.js.map": "/sondehealth/static/js/787.9092f61b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb64b580.css",
+    "static/js/main.7b18aece.js"
+  ]
+}
